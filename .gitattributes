@@ -22,7 +22,10 @@
 *.RTF	 diff=astextplain
 
 # Binary files which matlab may use
+*.mat -crlf -diff -merge
 *.p -crlf -diff -merge
+*.slx -crlf -diff -merge
+*.mdl -crlf -diff -merge
 *.mdlp -crlf -diff -merge
 *.slxp -crlf -diff -merge
 *.sldd -crlf -diff -merge
