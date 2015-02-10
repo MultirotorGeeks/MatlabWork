@@ -232,6 +232,7 @@ pip-log.txt
 *svn*
 
 # Matlab stuff
+*.autosave
 *.asv
 slprj/
 *_ert_rtw/
